@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow AI",
+  "description": "A modern, AI-enhanced To-Do list application designed for productivity. Features task breakdown powered by Gemini, clean UI, and persistent local state.",
+  "requestFramePermissions": []
+}
